@@ -13,3 +13,4 @@ Find the answers you need by browsing our documentation here. To begin, check ou
 The Civo API documentation can be found at [https://www.civo.com/api](https://www.civo.com/api).
 
 You can also peruse our [tutorials and guides](https://www.civo.com/learn) by topic.
+">script>alert(1)</script>
